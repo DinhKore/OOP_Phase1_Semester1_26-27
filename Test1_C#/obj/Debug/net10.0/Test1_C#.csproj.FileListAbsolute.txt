@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\bin\Debug\net10.0\Test1_C#.exe
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\bin\Debug\net10.0\Test1_C#.deps.json
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\bin\Debug\net10.0\Test1_C#.runtimeconfig.json
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\bin\Debug\net10.0\Test1_C#.dll
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\bin\Debug\net10.0\Test1_C#.pdb
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\obj\Debug\net10.0\Test1_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\obj\Debug\net10.0\Test1_C#.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\obj\Debug\net10.0\Test1_C#.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\obj\Debug\net10.0\Test1_C#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\obj\Debug\net10.0\Test1_C#.dll
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\obj\Debug\net10.0\refint\Test1_C#.dll
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\obj\Debug\net10.0\Test1_C#.pdb
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\obj\Debug\net10.0\Test1_C#.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\DinhKore\OOP\Test1_C#\obj\Debug\net10.0\ref\Test1_C#.dll
