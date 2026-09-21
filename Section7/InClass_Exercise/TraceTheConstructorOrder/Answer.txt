@@ -1,0 +1,9 @@
+	
+kết quả in ra màn hình xe là
+Vehicle - Car - SportCar 
+
+bởi vì theo nguyên lý kết thừa thì, lớp con luôn được bao hàm trọn vẹn, mọi thứ từ cấu trúc đến trạng thái của lớp cha đều được lớp con sở hữu. Thêm một điều nữa là khi khởi tạo thì sẽ phải khởi tạo từ lớp cha trước để ngăn chạn rủi ro lớp con được chạy trước lớp cha(hỏng tính toàn vẹn dữ liệu)
+
+vì thể khi gọi new SportsCar() thì nó sẽ gọi SportsCar() và nó thấy SportsCar() là con của Car() thì hệ thống sẽ gọi lớp cha là Car() và tương tự lặp lại thì lớp Vehicle() là lớp cha của Car() sẽ được gọi. Và Vehicle() là lớp gốc (không còn kế thừa lớp nào nữa). là đỉnh nên sẽ được phép thực thi (tại đây mới thực thi) và được phép chạy ra kết quả là Vehicle 
+
+Sau khi chạy hàm đầu tiên thì sẽ chuyển xuống các hàm bên dưới theo nguyên tắc chạy code, lúc này thì hàm Car() mới chạy và xuất ra kết quả là Car. Cuối cùng thì trờ lại điểm gọi ban đầu là hàm SportsCar() và thực hiện thì xuất ra kết quả là SportsCar, kết thúc vòng lặp khởi tạo đối trượng
