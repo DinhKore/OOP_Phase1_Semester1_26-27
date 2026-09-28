@@ -16,6 +16,8 @@
 .classpath
 .project
 .settings/
+bin/
+*.class
 
 # Build tools (Maven / Gradle)
 target/

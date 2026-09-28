@@ -1,0 +1,27 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+class SolidShape {
+    # name: String
+    + SolidShape(name: String)
+    + calculateVolume(): double
+    + displayInfo(): void
+}
+
+class Cube {
+    - side: double
+    + Cube(name: String, side: double)
+    + calculateVolume(): double
+    + displayInfo(): void
+}
+
+class Sphere {
+    - radius: double
+    + Sphere(name: String, radius: double)
+    + calculateVolume(): double
+    + displayInfo(): void
+}
+
+SolidShape <|-- Cube
+SolidShape <|-- Sphere
+@enduml
