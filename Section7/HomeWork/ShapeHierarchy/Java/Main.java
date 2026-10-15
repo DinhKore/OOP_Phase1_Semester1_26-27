@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("=== THỰC THI HỆ THỐNG HÌNH KHỐI 3D (JAVA) ===");
 
+        // Khởi tạo các đối tượng từ lớp con
         Cube cube = new Cube("Khối Rubik 3x3", 3.0);
         cube.displayInfo();
 
